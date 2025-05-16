@@ -1,0 +1,2 @@
+Generate a heat map of 2m temperature of the whole world for 2024-10-31 T00:00
+Retrieve daily average surface temperature over East Asia (15°N–45°N, 100°E–145°E) for July to September from 2010 to 2020.
